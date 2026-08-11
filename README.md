@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dharaneeswar%20Varikuti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20AI%20and%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dharaneeswar%20Varikuti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20AI%20%26amp%3B%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
@@ -131,11 +131,9 @@ A web-based plant disease detection system built around a CNN trained on the Pla
 ### 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dharaneeswar139&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneeswar139&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneeswar139&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dharaneeswar139&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneeswar139&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneeswar139&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
 
