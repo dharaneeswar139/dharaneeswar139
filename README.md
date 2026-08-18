@@ -2,7 +2,7 @@
 
 
 
-<img src="profile.png" width="150" height="150" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+%40+VVIT-U;Python+%7C+Java+%7C+TensorFlow+%7C+Django;Building+practical+AI-driven+software" alt="Typing SVG" />
