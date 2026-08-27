@@ -124,7 +124,7 @@ A web-based plant disease detection system built around a CNN trained on the Pla
 ### 💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-dharaneeswar139-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dharaneeswar139)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vvit23bq1a61f7)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vvit23bq1a61f7)
 
 ---
 
